@@ -27,6 +27,7 @@
 		"useRootPaddingAwareAlignments": true
 	},
 	"styles": {
+		"css": ".wp-block-post-template.is-flex-container {\n    \n    padding-left: 3rem;\n    padding-right: 3rem;\n}\n",
 		"spacing": {
 			"blockGap": "40px",
 			"padding": {
